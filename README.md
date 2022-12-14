@@ -1,5 +1,4 @@
-# J11
-Automatic Massaging Machine
+# J11 - Automatic Massaging Machine
 Functions:
 • Automatic or Semi automatic
 • Budget Friendly
